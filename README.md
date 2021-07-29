@@ -1,5 +1,5 @@
 # HELP
-dApp for retrieving funds from a malicious bot-compromised wallet
+dApp for retrieving funds from a compromised wallet hacked by a malicious bot
 -
 
 # Prerequisites
