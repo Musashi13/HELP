@@ -6,7 +6,7 @@ dApp for retrieving funds from a compromised wallet hacked by a malicious bot
 
 user must have access to compromised wallet
 
-compromised wallet must be open in secondary browser for signature verification
+compromised wallet must be open in secondary browser or another shell for signature verification
 
 # User Inputs
 compromised wallet public address=()
