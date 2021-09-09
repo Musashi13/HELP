@@ -9,6 +9,8 @@ dApp for retrieving funds from a compromised wallet hacked by a malicious bot
 
 - compromised wallet must be open in secondary browser or another shell for signature verification
 
+- flash loan styled solidity contract
+
 # User Inputs
 
 compromised wallet public address=()
