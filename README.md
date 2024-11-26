@@ -19,6 +19,8 @@ send wallet public address=()
 
 token contract address=() token amount=()
 
+token contract abi=()
+
 execute retrieval=(y)(n)
 
 gas>token value=() then "execute anyway?"=(y)(n)
