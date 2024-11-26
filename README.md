@@ -25,3 +25,8 @@ execute retrieval=(y)(n)
 
 gas>token value=() then "execute anyway?"=(y)(n)
 
+# Bot Commands
+
+command key=(i)
+
+run command=(ihelp)
